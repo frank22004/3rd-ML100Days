@@ -9,3 +9,4 @@ The 3 round of the 100 days marathon on machine learning
 from scipy.stats import mode
 '''
 The other is to count the most quantity number.
+13. Day13: pandas cut function is to divide the data into several interval based on the bins, which exclud the lower bondary but includ the upper bondary.
