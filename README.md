@@ -48,6 +48,8 @@ The 3 round of the 100 days marathon on machine learning
 
 31. Day31: We can combine two features into a combo feature by mean, multiply, and division.
 
+38. Day38: For linear regression by `sklearn.linear_model.LinearRegression()`, we can see the prediction line by `plt.plot(x_test, y_pred, color='blue', linewidth=3)` and check the mean square error by `sklearn.metrics.mean_squared_error()`. If want to classify, we will use `sklearn.linear_model.LogisticRegression()` and check the accuracy by `sklearn.metrics.accuracy_score()`
+
 40. Day40: Logics regression can be modified with LASSO and Ridge. Two function can be implemented by `sklearn.linear_model.Lasso(alpha = 1.0)` and `sklearn.linear_model.Ridge(alpha=1.0, solver='svd')`
 
 
