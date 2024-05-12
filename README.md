@@ -52,6 +52,7 @@ The 3 round of the 100 days marathon on machine learning
 
 40. Day40: Logics regression can be modified with LASSO and Ridge. Two function can be implemented by `sklearn.linear_model.Lasso(alpha = 1.0)` and `sklearn.linear_model.Ridge(alpha=1.0, solver='svd')`
 
+41. Day50: Learn to use `sklearn.cluster.KMeans` for K-mean algorithm
 
 
 
